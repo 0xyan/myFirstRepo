@@ -1,2 +1,2 @@
 # myFirstRepo
-Here I will start to learn Solidity - my first programming language
+Hi, my name is Yan, I an 23 and I am inspired by blockchain technology. Unfortunately, I don't know any programming language yet. I feel a bit frustrated because I can't contribute in any blockchain project, can't write smart contract etc. That's the reason I have started to learn coding - and my first language will be Solidity. I decided to start with it becuase I mostly interested in blockahin technology, but in immediate future I planning to start JavaScript as well.
